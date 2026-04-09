@@ -1,3 +1,26 @@
+Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: RIYAADA Institute for Leadership & Governance*en
+Website: https://riyaadaacademy.com
+Domains: riyaadaacademy.com
+Link to publications: https://riyaadaacademy.com/journals/index.php/rjlghs
+Organization type: Nonprofit
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0005 3005 9908
+GRID ID:
+Crossref Funder ID:
+Aliases: RIYAADA Academy
+Labels:
+Acronym/abbreviation: RIYAADA
+Related organizations:
+City: Mogadishu
+Country: Somalia
+Geonames ID:
+Year established:
+How will a ROR ID for this organization be used? To identify affiliations for research publications; To be integrated in a scholarly publishing system
+Other information about this request: Supporting identifiers and records include Ringgold ID 847744 and Crossref membership under the name RIYAADA Institute for Leadership & Governance with DOI prefix 10.66528 and role riya. The organization maintains a public institutional website and a public journal platform for the RIYAADA Journal of Leadership, Governance and Health Systems (RJLGHS).
 # RIYAADA Institute for Leadership & Governance is a premier institute that converts leadership intent into institutional capacity in fragile and complex systems.
 It operates at the intersection of governance, health systems, and institutional reform—producing enduring systems rather than just graduates with certificates.
 Our Promise

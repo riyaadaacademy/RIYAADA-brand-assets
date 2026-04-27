@@ -1,6 +1,7 @@
 Summary of request: Add a new organization to ROR
 
-Add record:
+https://doi.org/10.1080/14659891.2026.2653531
+:
 Name of organization: RIYAADA Institute for Leadership & Governance*en
 Website: https://riyaadaacademy.com
 Domains: riyaadaacademy.com
@@ -64,11 +65,22 @@ Clarification / additional details for RIYAADA (ROR request)
 	•	Website: https://riyaadaacademy.com
 	•	Domains (ROR domain field): riyaadaacademy.com
 	•	Contact email: info@riyaadaacademy.com
-	•	Organization type: Education / Training institute (independent)
+	•	Organization type: Education / Training institute 
 	•	City: Mogadishu
 	•	Country: Somalia
 	•	GeoNames ID (Mogadishu): 53654
 	•	Year established: 2023
 WikiData: ‪Q138003758‬ 
+https://riyaadaacademy.com/journals/index.php/rjlghs/peer-review?utm_source=chatgpt.com
+https://riyaadaacademy.com/journals/index.php/rjlghs/catalog/category/health-financing-uhc
+https://riyaadaacademy.com/journals/index.php/rjlghs/catalog/category/human-resources-health-professio
 
 ‪ (‬RIYAADA Institute for Leadership & Governance )
+https://doi.org/10.1093/ijcoms/lyag007
+https://www.opastpublishers.com/peer-review/health-system-transformation-in-somalia-an-analysis-of-justice-sustainability-and-resilience-in-a-fragile-state-10334.html
+https://www.opastpublishers.com/citation/health-system-transformation-in-somalia-an-analysis-of-justice-sustainability-and-resilience-in-a-fragile-state-10334.html?utm_source=
+https://www.crossref.org/?utm_source=chatgpt.com
+https://www.opastpublishers.com/journal/japanese-journal-of-medical-science/articles-in-press?utm_source=chatgpt.com
+
+
+
